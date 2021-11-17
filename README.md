@@ -1,8 +1,4 @@
 
-## Sample
+## Dockerize Python for AWS Lambda — Deploy with GitHub Workflow
 
-    AWS_ACCESS_KEY_ID
-    AWS_SECRET_ACCESS_KEY
-    AWS_REGION
-    AWS_ECR_REGISTRY
-    AWS_ECR_REPOSITORY
+Template repository for tech article, [Check it on medium](https://fabrizio-cafolla.medium.com/dockerize-python-for-aws-lambda-deploy-with-github-workflow-9a930c1e86b1)! 
